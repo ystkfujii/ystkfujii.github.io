@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
 
-title: ystkfujii.github
+title: ystkfujii.github.io
 description: My Portal
 github:
-    is_project_page: true
+  is_project_page: false
